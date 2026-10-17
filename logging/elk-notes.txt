@@ -1,0 +1,7 @@
+Nexvion Centralized Logging Plan
+
+Elasticsearch: Log storage and search
+Logstash: Log processing
+Kibana: Log visualization
+
+Status: Architecture documented; ELK stack not installed or running.

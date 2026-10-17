@@ -1,0 +1,5 @@
+Nexvion Monitoring
+Metrics collection: Prometheus
+Dashboard visualization: Grafana
+Prometheus endpoint: http://prometheus:9090
+Status: Configuration prepared; monitoring not deployed because Kubernetes cluster is unavailable.
